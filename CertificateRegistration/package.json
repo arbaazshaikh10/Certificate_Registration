@@ -1,0 +1,12 @@
+{
+  "name": "CertificateRegistrtion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.5.3"
+  },
+  "scripts":{
+    "dev": "lite-server"
+  }
+}
